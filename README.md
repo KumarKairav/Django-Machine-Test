@@ -1,0 +1,5 @@
+1. First of all install virtual environment inside Django-Machine-Test folder using pip install virtualenv
+2. Create a virtual env by: virtualenv venv
+3. Activate virtual env : Step 1)cd venv\Scripts Step 2).\activate
+4. Install necessary libraries:django,djangorestframework,mysqlclient
+5. Go to client folder and run this command in the terminal: python manage.py runserver
